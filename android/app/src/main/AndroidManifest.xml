@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.lits_adventures">
    <application
-        android:label="Prueba Tecnica LITS"
+        android:label="Prueba Técnica LITS"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
