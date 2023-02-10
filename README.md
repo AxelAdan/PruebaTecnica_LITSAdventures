@@ -15,7 +15,7 @@ _Dart viene incluido en el SDK de Flutter_
 
 - Un editor de código como [Visual Studio Code](https://code.visualstudio.com/) o un entorno de desarrollo integrado como [Android Studio](https://developer.android.com/studio)
 
-_Ten en cuenta que si utilizas un editor de código deberás tener algún emulador de dispositivos móviles o tener el conocimiento de como emular tu aplicación en un dispositivo físico._
+_Ten en cuenta que si utilizas un editor de código deberás tener algún emulador de dispositivos móviles o tener el conocimiento de como emular la aplicación en un dispositivo móvil físico._
 
 - [JDK 11 o superior (Java Development Kit 11)](https://www.oracle.com/mx/java/technologies/javase/jdk11-archive-downloads.html)
 
